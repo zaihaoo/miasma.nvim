@@ -358,7 +358,7 @@ hi SpellRare guifg=#b36d43 guibg=NONE guisp=#d7c483 blend=NONE gui=underline
 hi Statement guifg=#5f875f guibg=NONE guisp=NONE blend=NONE gui=bold
 hi StatusLine guifg=#d7c483 guibg=#222222 guisp=NONE blend=NONE gui=bold
 hi StatusLineNC guifg=#666666 guibg=#222222 guisp=NONE blend=NONE gui=bold
-hi String guifg=#685742 guibg=NONE guisp=NONE blend=NONE gui=NONE
+hi String guifg=#ccbbaa guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi SyntasticErrorSign guifg=#b36d43 guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi SyntasticWarningSign guifg=#685742 guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi TabLineFill guifg=#c9a554 guibg=#222222 guisp=NONE blend=NONE gui=NONE
