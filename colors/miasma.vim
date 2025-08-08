@@ -24,12 +24,12 @@ hi CursorLine guifg=NONE guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi CursorLineNr guifg=#78824b guibg=#1c1c1c guisp=NONE blend=NONE gui=bold
 hi Delimiter guifg=#d7c483 guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi DiagnosticDeprecated guifg=NONE guibg=NONE guisp=#685742 blend=NONE gui=strikethrough
-hi DiagnosticError guifg=#b36d43 guibg=NONE guisp=NONE blend=NONE gui=NONE
+hi DiagnosticError guifg=#ff657a guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi DiagnosticHintFloating guifg=#78824b guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi DiagnosticHint guifg=#5f875f guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi DiagnosticInfo guifg=#5f875f guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi DiagnosticOk guifg=#78824b guibg=NONE guisp=NONE blend=NONE gui=NONE
-hi DiagnosticSignError guifg=#b36d43 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
+hi DiagnosticSignError guifg=#ff657a guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi DiagnosticSignHint guifg=#5f875f guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi DiagnosticSignInfo guifg=#78824b guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi DiagnosticSignWarn guifg=#685742 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
@@ -39,7 +39,7 @@ hi DiagnosticUnderlineInfo guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=under
 hi DiagnosticUnderlineOk guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=underline
 hi DiagnosticUnderlineWarn guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=underline
 hi DiagnosticUnnecessary guifg=#666666 guibg=NONE guisp=NONE blend=NONE gui=underline
-hi DiagnosticVirtualTextError guifg=#b36d43 guibg=NONE guisp=NONE blend=NONE gui=NONE
+hi DiagnosticVirtualTextError guifg=#ff657a guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi DiagnosticVirtualTextHint guifg=#78824b guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi DiagnosticVirtualTextInfo guifg=#78824b guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi DiagnosticVirtualTextWarn guifg=#685742 guibg=#222222 guisp=NONE blend=NONE gui=NONE
@@ -54,8 +54,8 @@ hi DiffDelete guifg=#222222 guibg=#b36d43 guisp=NONE blend=NONE gui=bold
 hi DiffRemoved guifg=#b36d43 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
 hi DiffText guifg=#222222 guibg=#c9a554 guisp=NONE blend=NONE gui=bold
 hi Directory guifg=#78824b guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
-hi Error guifg=#c2c2b0 guibg=#bb7744 guisp=NONE blend=NONE gui=NONE
-hi ErrorMsg guifg=#b36d43 guibg=#222222 guisp=NONE blend=NONE gui=NONE
+hi Error guifg=#c2c2b0 guibg=#ff657a guisp=NONE blend=NONE gui=NONE
+hi ErrorMsg guifg=#ff657a guibg=#222222 guisp=NONE blend=NONE gui=NONE
 hi FloatShadow guifg=NONE guibg=#101010 guisp=NONE blend=NONE gui=NONE
 hi FloatShadowThrough guifg=NONE guibg=#151515 guisp=NONE blend=NONE gui=NONE
 hi FoldColumn guifg=#666666 guibg=#1c1c1c guisp=NONE blend=NONE gui=NONE
